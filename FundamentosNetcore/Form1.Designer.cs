@@ -35,7 +35,7 @@
             // 
             // btnPulsar
             // 
-            btnPulsar.Location = new Point(434, 214);
+            btnPulsar.Location = new Point(167, 253);
             btnPulsar.Name = "btnPulsar";
             btnPulsar.Size = new Size(205, 64);
             btnPulsar.TabIndex = 0;
