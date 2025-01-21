@@ -12,6 +12,11 @@ namespace FundamentosNetcore
             this.txtNombre.Location = new Point(20, 10);
             this.txtNombre.Text = "Soy un string";
             this.btnPulsar.BackColor = Color.Fuchsia;
+
+
+            //Castting primitivos
+            int mayor = 88;
+            short pequeño = (short)mayor;
         }
     }
 }
